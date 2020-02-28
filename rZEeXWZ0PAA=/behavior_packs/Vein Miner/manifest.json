@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "By AGamingPlayz - Minecraft at YT",
+        "name": "§eVein Miner",
+        "uuid": "A370D641-5AB0-443D-B9FF-23254AA9BAE4",
+        "min_engine_version": [ 1,11,0 ],
+        "version": [0, 1, 4]
+    },    
+    "modules": [
+        {
+            "description": "Created by AGamingPlayz. Do not distribute unfairly",
+            "type": "data",
+			"uuid": "BA8D8A4C-7771-4FE5-8051-F660E5954B5e",
+            "version": [0, 1, 4]
+        }
+    ]
+}

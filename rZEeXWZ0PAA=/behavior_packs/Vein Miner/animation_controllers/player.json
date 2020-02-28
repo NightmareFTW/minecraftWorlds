@@ -1,0 +1,31 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.player.sneakingVariable": {
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"sneaking":"query.is_sneaking"
+						}
+					],
+					"on_entry": [
+						"/function veinminer",
+						"/function treefeller"
+					]
+				},
+				"sneaking": {
+					"transitions": [
+						{
+							"default":"query.is_sneaking"
+						}
+					],
+					"on_entry": [
+						"/function veinminer",
+						"/function treefeller"
+					]
+				}
+			}
+		}
+	}
+}

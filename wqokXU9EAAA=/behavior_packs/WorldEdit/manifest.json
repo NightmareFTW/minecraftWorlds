@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Creater(Twitter): @Momeemt",
+        "name": "World Edit",
+        "uuid": "ad179a62-09ea-4ced-baca-4364deaf0335",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 8, 0]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "client_data",
+            "uuid": "494d9811-a51a-4e96-a039-d639680a15ae",
+            "version": [1, 0, 0]
+        }
+    ]
+}
